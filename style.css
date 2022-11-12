@@ -1,0 +1,30 @@
+.container1{
+    font-size: 18px; 
+    color: green;
+    background-color: white;
+    border: 1px solid green;
+    padding: 10px;
+    margin: 0 10px 50px 10px;
+    justify-content: baseline;
+}
+
+.container2{
+    font-size: 18px; 
+    color: red;
+    background-color: white;
+    border: 1px solid red;
+    padding: 10px;
+    margin: 0 10px 50px 10px;
+    justify-content: baseline;
+
+}
+
+.container3{
+    font-size: 18px; 
+    color: blue;
+    background-color: white;
+    border: 1px solid blue;
+    padding: 10px;
+    margin: 0 10px 5px 10px;
+    justify-content: baseline;   
+}
