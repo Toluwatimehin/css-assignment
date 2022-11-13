@@ -1,0 +1,20 @@
+.container1a{
+    display: flex;
+    color: blueviolet;
+    font-size: 25px;
+
+}
+
+.container2a{
+    color: red;
+    display: flex;
+    font-size: 20px;
+}
+
+#1b{
+    color: brown;
+}
+
+#1a{
+    color: rgb(18, 17, 16);
+}
